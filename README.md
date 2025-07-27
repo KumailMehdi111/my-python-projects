@@ -1,2 +1,3 @@
 # my-python-projects
-here is mu projecta that i made throw python.
+Python projects made on mobile using Pyroid. Beginner to intermediate level tools and scripts.
+
